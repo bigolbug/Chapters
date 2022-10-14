@@ -1,0 +1,8 @@
+minetest.register_privilege("chapters:chapter_1_started",{description = "You have started chapter 1"})
+minetest.register_privilege("chapters:chapter_1_complete",{})
+minetest.register_privilege("chapters:chapter_2_started",{})
+minetest.register_privilege("chapters:chapter_2_complete",{})
+minetest.register_privilege("chapters:chapter_3_started",{})
+minetest.register_privilege("chapters:chapter_3_complete",{})
+minetest.register_privilege("chapters:chapter_4_started",{})
+minetest.register_privilege("chapters:chapter_4_complete",{})
